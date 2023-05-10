@@ -1,0 +1,101 @@
+Exercise 3
+Write a shell script to generate a multiplication table.
+
+Exercise 4
+Write a shell script that copies multiple files to directory.
+
+Exercise 5
+Write a shell script which counts the number of lines and number of words present in a given file.
+
+Exercise 6
+Write a shell script which displays the list of all files in a given directory.
+
+Exercise 7
+Write a shell script (small calculator) that adds, subtracts, multiplies and divides the two given numbers.
+
+Exercise 8
+Write a shell script to determine whether a given number is a prime number or not.
+
+Exercise 9
+Write a shell script to print all the primes below a given number is a prime number.
+
+Exercise 10
+Write a shell script to print the first n Fibonacci numbers.
+
+Exercise 11
+Write a shell script to find the gcd of two given numbers.
+
+Exercise 12
+Write a shell script to reverse the rows and columns of a matrix.
+
+Exercise 13
+Write a shell script to find the scalar product of two vectors.
+
+Exercise 14
+Write a C program that counts the number of blanks in a text file.
+
+Exercise 15
+Write a C program to count the number of words, lines and characters of a given text file.
+
+Exercise 16
+Implement in C the following unix commands using system calls.
+a) cat  b)Is c)mv
+
+Exercise 17
+Write a C program that takes one or more file/directory names as command line input and reports the following information on the file:
+a) File type  b)Number of links   c) Time of last access    d) Read, write, and execute permission
+
+Exercise 18
+Write a program in C that illustrates how to execute two commands concurrently with a command pipe.
+
+Exercise 19
+Write a c program that illustrates the creation of a child process using fork system call.
+
+Exercise 20
+Write a C program that displays the real time of a day every 60 seconds.
+
+Exercise 21
+Write a C program that illustrates for file locking using semaphores.
+
+Exercise 22
+Write a C program that implements a producer-consumer system with two processes (using semaphores).
+
+Exercise 23
+Write a C program that illustrates inter process communication using shared memory system calls.
+
+Exercise 24
+Write a C Program that illustrates the following:
+a) Creating message queue. b) Writing to a message queue. c) Reading from a message queue
+
+Exercise 25
+Write a C program to copy a file into another using system calls.
+
+Exercise 26
+Write a C program that reads a file and writes in the reverse order.
+
+Exercise 27
+Write a C program to print all error messages.
+
+Exercise 28
+Write a C program to list only directories.
+
+Exercise 29
+Write a C program to check all 12 permission bits of a file.
+
+Exercise 30
+Write a C program to determine a file's access rights using UID and GID.
+
+Exercise 31
+Write a C program to set a file's time stamps to those of another file.
+
+Exercise 32
+Write a C program using fork, exec, and wait to run a UNIX command.
+
+Exercise 33
+Write a C program to accept user input as a command to be executed and then uses the strtok library function for parsing command line.
+
+Exercise 34
+Write a C program to run two programs in a pipeline (Child runs cat, parent runs tr).
+
+Exercise 35
+Write a program that uses fork and exec to run a user-defined program and kills it if does not complete in 5 seconds.
